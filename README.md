@@ -41,6 +41,27 @@
 
 </div>
 
+<hr/>
+
+<div>
+<h3>
+  :fire: My Stats :
+</h3>
+<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=cs-astronaut&theme=github-dark-blue" alt="GitHub Streak" /></a>
+  <picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=cs-astronaut&show_icons=true&theme=transparent"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=cs-astronaut&show_icons=true"
+    media="(prefers-color-scheme: tokyonight), (prefers-color-scheme: tokyonight)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=cs-astronaut&show_icons=true" />
+</picture>
+
+  
+</div>
 
 <hr/>
 <div id="header" align="center">
