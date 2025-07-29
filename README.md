@@ -40,10 +40,9 @@ I'm also a geek passionate about Linux and contributing to the open-source commu
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cs-astronaut&theme=tokyonight)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cs-astronaut&theme=tokyonight&exclude=jupyter%20Notebook)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cs-astronaut&theme=tokyonight&exclude=jupyter%20Notebook) ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=cs-astronaut&theme=tokyonight)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=cs-astronaut&theme=tokyonight)
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=cs-astronaut&theme=tokyonight&hide_total_contributions=true&hide_border=true)](https://git.io/streak-stats)
 </p>
   
 </div>
