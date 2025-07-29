@@ -38,8 +38,8 @@ I'm also a geek passionate about Linux and contributing to the open-source commu
 <hr/>
 <p align="center">
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={cs-astronaut}&theme={tokyonight})
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={cs-astronaut}&theme={tokyonight}&exclude={exclude})
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cs-astronaut&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cs-astronaut&theme=tokyonight&exclude={exclude})
 
 
 </p>
