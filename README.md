@@ -44,15 +44,9 @@ I'm also a geek passionate about Linux and contributing to the open-source commu
   
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=cs-astronaut&theme=tokyonight" />
 
-  <br/>
-
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=cs-astronaut&theme=tokyonight&hide_total_contributions=true&hide_border=true" />
-  </a>
 
 </div>
 
-<hr/>
 <br/>
 
 <div id="header" align="center">
