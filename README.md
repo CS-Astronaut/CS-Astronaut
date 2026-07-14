@@ -1,13 +1,4 @@
-# CS Astronaut 
-
-<div align="center" >
-Just an astronaut exploring the computer science galaxy   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjE3aGE5ZXdiaTdiMXBpeTk5ZG5iZXY2NTB0MzFiaDVrYjNzZ2xyayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gyr5H37A484WqdFXJ7/giphy.gif" width="70px"/>
-</div>
-  
 ## Fetch
-
-<br/>
-
 ```
                       ..:::::::.                          CS-Astronaut@github
                    ..::::::----=-.:---:.                  -------------------
@@ -61,10 +52,16 @@ Just an astronaut exploring the computer science galaxy   <img src="https://medi
 
 <br/>
 
-<div id="header" align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW94eXJpYW9sNG42bmRpd2p3ZDk4Zmt4dGQ2Mm5vZmg4aTlwbW4xbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/DGaZTLF390Z0s/giphy.gif" width="100" alt="mario gif"/>        
-  <img src="https://media.tenor.com/S61VCO73mOAAAAAj/linux-tux.gif" width="75px"/>
+
+
+ 
+
+<div align="center" >
+ <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjE3aGE5ZXdiaTdiMXBpeTk5ZG5iZXY2NTB0MzFiaDVrYjNzZ2xyayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gyr5H37A484WqdFXJ7/giphy.gif" width="70px"/>
+
+Just an astronaut exploring the computer science galaxy
 </div>
+
 
 <div id="badges" align="center">
 
@@ -79,5 +76,6 @@ Just an astronaut exploring the computer science galaxy   <img src="https://medi
 </div>
 
 <div id="badges" align="center"> 
+  
   <img src="https://komarev.com/ghpvc/?username=cs-astronaut&style=flat-square&color=blue" alt=""/>
 </div>
